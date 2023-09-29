@@ -1,0 +1,6 @@
+1-
+$ git init
+ empty Git repository انشاء 
+Initialized empty Git repository in C:/xampp/htdocs/ecommerce/.git/
+
+2-
